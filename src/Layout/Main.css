@@ -1,0 +1,9 @@
+.nav-link{
+    text-align: end;
+}
+.nav-link a{
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 20px;
+  
+}
